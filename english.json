@@ -48,7 +48,7 @@
     "isblacklisted": "/me This track is on the %%BLACKLIST%% blacklist! Skipping...",
     "isopen": "/me The roulette is now open! Type !join to participate!",
     "winnerpicked": "/me A winner has been picked! @%%NAME%% to position %%POSITION%%.",
-    "ball": "/me %%NAME%%'s question was: \"%%QUESTION%%\" and Checking-Bot's response: \"%%RESPONSE%%\"",
+    "ball": "/me %%NAME%%'s question was: \"%%QUESTION%%\" and Jamie-BOT's response: \"%%RESPONSE%%\"",
     "alreadyadding": "/me User is already being added! Changed the desired position to %%POSITION%%.",
     "adding": "/me Added @%%NAME%% to the queue. Current queue: %%POSITION%%.",
     "usernotfound": "/me User not found.",
