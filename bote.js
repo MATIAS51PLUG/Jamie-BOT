@@ -176,7 +176,7 @@
         name: "Jamie-BOT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/bot.js",
-        cmdLink: "http://en-bot-commands.jimdo.com/",
+        cmdLink: "http://electronicfamilyofficial.jimdo.com/jamie-bot-commands",
         chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
         chat: null,
         loadChat: loadChat,
