@@ -171,7 +171,7 @@
     var botCreatorIDs = [];
 
     var trapbot = {
-        version: "4.8.8",
+        version: "4.8.9 Update",
         status: false,
         name: "Jamie-BOT",
         loggedInID: null,
