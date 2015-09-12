@@ -140,12 +140,12 @@
     "muterank": "/me [@%%NAME%%] You can't mute persons with an equal or higher rank than you.",
     "oplist": "/me Sorry the page is currently down.",
     "pong": "/me Pong!",
-    "reload": "/me error Bot is now reloading...",
+    "reload": "/me  Bot is now reloading...",
     "removenotinwl": "/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
     "roomrules": "/me ",
     "sessionstats": "/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
     "skip": "/me [%%NAME%% used skip.]",
-    "madeby": "/me This bot was made by dj-monstercat.",
+    "madeby": "/me This bot was made by MATIAS51.",
     "activefor": "I have been active for %%TIME%%.",
     "swapinvalid": "/me [@%%NAME%%] Invalid user specified. (No names with spaces!)",
     "swapwlonly": "/me [@%%NAME%%] Please only swap users that are in the waitlist!",
@@ -162,3 +162,4 @@
     "twitter": "/me ",
     "youtube": "/me ",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%% :+1: | %%GRABS%% :star: | %%MEHS%% :-1:"
+}
