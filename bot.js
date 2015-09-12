@@ -177,7 +177,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/bot.js",
         cmdLink: "http://en-bot-commands.jimdo.com/",
-        chatLink: "https://rawgit.com/dj-monstercat/EF-Bot/master/en.json",
+        chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/en-EN.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -185,7 +185,7 @@
         settings: {
             botName: "Checking-Bot",
             language: "english",
-            chatLink: "https://rawgit.com/dj-monstercat/EF-Bot/master/en.json",
+            chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/en-EN.json",
             maximumAfk: 120,
             afkRemoval: false,
             maximumDc: 60,
