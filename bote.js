@@ -250,8 +250,8 @@
         settings: {
             botName: "Jamie-BOT",
             language: "english",
-            chatLink: "https://rawgit.com/bscBot/source/master/lang/en.json",
-            scriptLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
+            chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
+            scriptLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/bote.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
