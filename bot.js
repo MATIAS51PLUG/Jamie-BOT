@@ -173,7 +173,7 @@
     var trapbot = {
         version: "4.8.8",
         status: false,
-        name: "EF-Bot",
+        name: "Jamie-BOT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/bot.js",
         cmdLink: "http://en-bot-commands.jimdo.com/",
@@ -183,7 +183,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Checking-Bot",
+            botName: "Jamie-BOT",
             language: "english",
             chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/en-EN.json",
             maximumAfk: 120,
