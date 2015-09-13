@@ -57,7 +57,7 @@
                 if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                 if (!bot.commands.executable(this.rank, chat)) return void (0);
                 else {
-                    API.sendChat("/me I Love you Trance Emotions <3");
+                    API.sendChat("/me I Love you MATIAS51 <3");
                 }
             }
         };
@@ -142,7 +142,6 @@
         botName: "Jamie-BOT",
         language: "english",
         chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
-        cmdlink: "http://electronicfamilyofficial.jimdo.com/jamie-bot-commands/",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
@@ -204,7 +203,7 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/bote.js", extend);
+    $.getScript("https://rawgit.com/Yemasthui/basicBot/master/basicBot.js", extend);
 
 }).call(this);
 
