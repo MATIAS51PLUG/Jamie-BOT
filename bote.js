@@ -142,7 +142,7 @@
         botName: "Jamie-BOT",
         language: "english",
         chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
-        cmdlink: "http://electronicfamilyofficial.jimdo.com/jamie-bot-commands/"
+        cmdlink: "http://electronicfamilyofficial.jimdo.com/jamie-bot-commands/",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
