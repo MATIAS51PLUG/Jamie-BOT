@@ -139,7 +139,7 @@
 	var fork = "";
 	
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Jamie-BOT",
+        botName: "Adriana",
         language: "english",
         chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
         startupCap: 1, // 1-200
