@@ -1,4 +1,4 @@
-# Jamie-BOT
+# AdrianaBot
 
 Add the javascript on your bookmarks
 
