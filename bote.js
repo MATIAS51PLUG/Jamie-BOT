@@ -203,7 +203,7 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/MATIAS51PLUG/bot-mio/master/bot.js", extend);
+    $.getScript("https://rawgit.com/basicBot/source/master/basicBot.js#L2", extend);
 
 }).call(this);
 
