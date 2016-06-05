@@ -188,7 +188,7 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: "facebook.com/electronicfamilyofficial",
         youtubeLink: null,
         website: null,
         intervalMessages: [],
