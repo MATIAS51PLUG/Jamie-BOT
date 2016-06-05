@@ -202,7 +202,7 @@
     "voteratio": "\/me [@%%NAME%%] @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w\/m): %%RATIO%%.",
     "website": "\/me Please visit our website: http://electronicfamilyofficial.jimdo.com/",
     "youtube": "\/me [%%NAME%%] Subscribe to us on youtube: https://goo.gl/aubXTk",
-    "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%% :+1:\/%%GRABS%% :star:\/%%MEHS%% :-1:",
+    "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%% :heart_eyes:\/%%GRABS%% :heart:\/%%MEHS%% :sob:",
     "thorNotClose": "\/me @%%NAME%%, you're not worthy of getting close to the hammer!",
     "thorcd": "\/me @%%NAME%% you can try to lift the hammer in %%TIME%% minutes.",
     "thorWorthy": "\/me @%%NAME%% you're worthy of the hammer :hammer:, congratulations!",
