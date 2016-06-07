@@ -5,6 +5,6 @@ Add the javascript on your bookmarks
 
 
 
-*Comming Soon*
+*javascript:(function(){$.getScript('https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/bote.js');})();*
 
-;)
+
