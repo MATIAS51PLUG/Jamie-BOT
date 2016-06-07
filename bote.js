@@ -190,7 +190,7 @@
         themeLink: null,
         fbLink: "facebook.com/electronicfamilyofficial",
         youtubeLink: null,
-        website: null,
+        website: "http://epfcommands.hol.es/foro",
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
