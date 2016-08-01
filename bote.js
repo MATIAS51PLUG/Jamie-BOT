@@ -139,14 +139,14 @@
 	var fork = "";
 	
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Chloe",
+        botName: "BotRobado",
         language: "english",
         chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
         autowoot: true,
-        autoskip: false,
+        autoskip: true,
         smartSkip: true,
         cmdDeletion: true,
         maximumAfk: 120,
@@ -206,5 +206,3 @@
     $.getScript("https://rawgit.com/basicBot/source/master/basicBot.js", extend);
 
 }).call(this);
-
-//Credits to RLCDuBz: https://rlcnetwork.com Just a few adjustments... 
