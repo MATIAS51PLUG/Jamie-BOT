@@ -139,7 +139,7 @@
 	var fork = "";
 	
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Chloe",
+        botName: "Enigma",
         language: "english",
         chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
         startupCap: 1, // 1-200
@@ -190,7 +190,7 @@
         themeLink: null,
         fbLink: "facebook.com/electronicfamilyofficial",
         youtubeLink: null,
-        website: "http://epfcommands.hol.es/foro",
+        website: "I not have CMD's (PERSONAL USE ONLY)",
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
