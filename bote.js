@@ -139,7 +139,7 @@
 	var fork = "";
 	
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Enigma",
+        botName: "∂υ๒รtєρ-BoT",
         language: "english",
         chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
         startupCap: 1, // 1-200
@@ -181,14 +181,14 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "Enjoy!",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: "facebook.com/electronicfamilyofficial",
+        fbLink: "https://www.facebook.com/groups/BSRPgroup/",
         youtubeLink: null,
         website: "I not have CMD's (PERSONAL USE ONLY)",
         intervalMessages: [],
